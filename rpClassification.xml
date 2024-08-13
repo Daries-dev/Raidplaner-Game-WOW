@@ -85,6 +85,23 @@
             <icon>druid</icon>
             <game>wow</game>
         </classification>
+        <classification identifier="evoker">
+            <title language="de">Rufer</title>
+            <title language="en">Evoker</title>
+            <races>
+                <race>dracthyr</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+                <role>healer</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>evoker</icon>
+            <game>wow</game>
+        </classification>
         <classification identifier="hunter">
             <title language="de">Jäger</title>
             <title language="en">Hunter</title>
