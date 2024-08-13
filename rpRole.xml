@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/role.xsd">
+    <import>
+        <role identifier="ddDistance">
+            <title language="de">DD Fernkampf</title>
+            <title language="en">Range-DD</title>
+            <icon>ddDistance</icon>
+            <game>wow</game>
+        </role>
+        <role identifier="ddNear">
+            <title language="de">DD Nahkampf</title>
+            <title language="en">Melee</title>
+            <icon>ddNear</icon>
+            <game>wow</game>
+        </role>
+        <role identifier="healer">
+            <title language="de">Heiler</title>
+            <title language="en">Healer</title>
+            <icon>healer</icon>
+            <game>wow</game>
+        </role>
+        <role identifier="tank">
+            <title language="de">Tank</title>
+            <title language="en">Tank</title>
+            <icon>tank</icon>
+            <game>wow</game>
+        </role>
+    </import>
+</data>
