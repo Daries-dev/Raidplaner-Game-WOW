@@ -27,5 +27,6 @@
         <instruction type="rpFaction" />
         <instruction type="rpRace" />
         <instruction type="rpRole" />
+        <instruction type="rpClassification" />
     </instructions>
 </package>

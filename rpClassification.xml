@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/classification.xsd">
+    <import>
+        <classification identifier="deathKnight">
+            <title language="de">Todesritter</title>
+            <title language="en">Death Knight</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>highmountainTauren</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>lightforgedDraenei</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+                <role>tank</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>deathKnight</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="demonHunter">
+            <title language="de">Dämonenjäger</title>
+            <title language="en">Demon Hunter</title>
+            <races>
+                <race>bloodElf</race>
+                <race>nightElf</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+                <role>tank</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>demonHunter</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="druid">
+            <title language="de">Druide</title>
+            <title language="en">Druid</title>
+            <races>
+                <race>highmountainTauren</race>
+                <race>kulTiran</race>
+                <race>mechagnome</race>
+                <race>nightElf</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddDistance</role>
+                <role>ddNear</role>
+                <role>healer</role>
+                <role>tank</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>druid</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="hunter">
+            <title language="de">Jäger</title>
+            <title language="en">Hunter</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>highmountainTauren</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>lightforgedDraenei</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddDistance</role>
+                <role>ddNear</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>hunter</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="mage">
+            <title language="de">Jäger</title>
+            <title language="en">Mage</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>lightforgedDraenei</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddDistance</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>mage</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="monk">
+            <title language="de">Mönch</title>
+            <title language="en">Monk</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>highmountainTauren</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+                <role>healer</role>
+                <role>tank</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>monk</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="paladin">
+            <title language="de">Paladin</title>
+            <title language="en">Paladin</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>human</race>
+                <race>lightforgedDraenei</race>
+                <race>tauren</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+                <role>healer</role>
+                <role>tank</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>paladin</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="priest">
+            <title language="de">Priester</title>
+            <title language="en">Priest</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>lightforgedDraenei</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>pandaren</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddDistance</role>
+                <role>healer</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>priest</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="rogue">
+            <title language="de">Schurke</title>
+            <title language="en">Rogue</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>rogue</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="shaman">
+            <title language="de">Schamane</title>
+            <title language="en">Shaman</title>
+            <races>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>goblin</race>
+                <race>highmountainTauren</race>
+                <race>kulTiran</race>
+                <race>magharOrc</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>vulpera</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddDistance</role>
+                <role>ddNear</role>
+                <role>healer</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>shaman</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="warlock">
+            <title language="de">Hexenmeister</title>
+            <title language="en">Warlock</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>human</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>orc</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+            </races>
+            <roles>
+                <role>ddDistance</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>warlock</icon>
+            <game>wow</game>
+        </classification>
+        <classification identifier="warrior">
+            <title language="de">Krieger</title>
+            <title language="en">Warrior</title>
+            <races>
+                <race>bloodElf</race>
+                <race>darkIronDwarf</race>
+                <race>draenei</race>
+                <race>dwarf</race>
+                <race>gnome</race>
+                <race>goblin</race>
+                <race>highmountainTauren</race>
+                <race>human</race>
+                <race>kulTiran</race>
+                <race>lightforgedDraenei</race>
+                <race>magharOrc</race>
+                <race>mechagnome</race>
+                <race>nightborne</race>
+                <race>nightElf</race>
+                <race>orc</race>
+                <race>pandaren</race>
+                <race>tauren</race>
+                <race>troll</race>
+                <race>undead</race>
+                <race>voidElf</race>
+                <race>vulpera</race>
+                <race>worgen</race>
+                <race>zandalariTroll</race>
+            </races>
+            <roles>
+                <role>ddNear</role>
+                <role>tank</role>
+            </roles>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <icon>warrior</icon>
+            <game>wow</game>
+        </classification>
+    </import>
+</data>
