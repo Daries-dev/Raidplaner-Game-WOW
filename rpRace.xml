@@ -20,6 +20,16 @@
             </factions>
             <game>wow</game>
         </race>
+        <race identifier="dracthyr">
+            <title language="de">Dracthyr</title>
+            <title language="en">Dracthyr</title>
+            <icon>dracthyr</icon>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
         <race identifier="draenei">
             <title language="de">Draenei</title>
             <title language="en">Draenei</title>
