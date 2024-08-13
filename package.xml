@@ -25,5 +25,6 @@
     <instructions type="install">
         <instruction type="rpGame" />
         <instruction type="rpFaction" />
+        <instruction type="rpRace" />
     </instructions>
 </package>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/race.xsd">
+    <import>
+        <race identifier="bloodElf">
+            <title language="de">Blutelf</title>
+            <title language="en">Blood Elf</title>
+            <icon>bloodElf</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="darkIronDwarf">
+            <title language="de">Dunkeleisen-Zwerg</title>
+            <title language="en">Dark Iron Dwarf</title>
+            <icon>darkIronDwarf</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="draenei">
+            <title language="de">Draenei</title>
+            <title language="en">Draenei</title>
+            <icon>draenei</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="dwarf">
+            <title language="de">Zwerg</title>
+            <title language="en">Dwarf</title>
+            <icon>dwarf</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="gnome">
+            <title language="de">Gnom</title>
+            <title language="en">Gnome</title>
+            <icon>gnome</icon>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="goblin">
+            <title language="de">Goblin</title>
+            <title language="en">Goblin</title>
+            <icon>goblin</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="highmountainTauren">
+            <title language="de">Hochbergtauren</title>
+            <title language="en">Highmountain Tauren</title>
+            <icon>highmountainTauren</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="human">
+            <title language="de">Mensch</title>
+            <title language="en">Human</title>
+            <icon>human</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="kulTiran">
+            <title language="de">Kul Tiran</title>
+            <title language="en">Kul Tiran</title>
+            <icon>kulTiran</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="lightforgedDraenei">
+            <title language="de">Lichtgeschmiedeter Draenei</title>
+            <title language="en">Lightforged Draenei</title>
+            <icon>lightforgedDraenei</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="magharOrc">
+            <title language="de">Orcs der Mag'har</title>
+            <title language="en">Mag'har Orc</title>
+            <icon>magharOrc</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="mechagnome">
+            <title language="de">Mechagnom</title>
+            <title language="en">Mechagnome</title>
+            <icon>mechagnome</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="nightborne">
+            <title language="de">Nachtgeborener</title>
+            <title language="en">Nightborne</title>
+            <icon>nightborne</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="nightElf">
+            <title language="de">Nachtelf</title>
+            <title language="en">Night Elf</title>
+            <icon>nightElf</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="orc">
+            <title language="de">Ork</title>
+            <title language="en">Orc</title>
+            <icon>orc</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="pandaren">
+            <title language="de">Pandaren</title>
+            <title language="en">Pandaren</title>
+            <icon>pandaren</icon>
+            <factions>
+                <faction>alliance</faction>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="tauren">
+            <title language="de">Taure</title>
+            <title language="en">Tauren</title>
+            <icon>tauren</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="troll">
+            <title language="de">Troll</title>
+            <title language="en">Troll</title>
+            <icon>troll</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="undead">
+            <title language="de">Untoter</title>
+            <title language="en">Undead</title>
+            <icon>undead</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="voidElf">
+            <title language="de">Leerenelf</title>
+            <title language="en">Void Elf</title>
+            <icon>voidElf</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="vulpera">
+            <title language="de">Vulpera</title>
+            <title language="en">Vulpera</title>
+            <icon>vulpera</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="worgen">
+            <title language="de">Worg</title>
+            <title language="en">Worgen</title>
+            <icon>worgen</icon>
+            <factions>
+                <faction>alliance</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+        <race identifier="zandalariTroll">
+            <title language="de">Zandalari Troll</title>
+            <title language="en">Zandalari Troll</title>
+            <icon>zandalariTroll</icon>
+            <factions>
+                <faction>horde</faction>
+            </factions>
+            <game>wow</game>
+        </race>
+    </import>
+</data>
