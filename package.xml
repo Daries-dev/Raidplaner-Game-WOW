@@ -24,5 +24,6 @@
 
     <instructions type="install">
         <instruction type="rpGame" />
+        <instruction type="rpFaction" />
     </instructions>
 </package>

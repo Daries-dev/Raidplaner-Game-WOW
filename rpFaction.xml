@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/faction.xsd">
+    <import>
+        <faction identifier="alliance">
+            <title language="de">Allianz</title>
+            <title language="en">Alliance</title>
+            <game>wow</game>
+            <icon>alliance</icon>
+        </faction>
+
+        <faction identifier="horde">
+            <title language="de">Horde</title>
+            <title language="en">Horde</title>
+            <game>wow</game>
+            <icon>horde</icon>
+        </faction>
+    </import>
+</data>
