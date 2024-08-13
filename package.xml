@@ -23,6 +23,7 @@
     </excludedpackages>
 
     <instructions type="install">
+        <instruction type="file" application="rp">files_rp.tar</instruction>
         <instruction type="rpGame" />
 
         <instruction type="rpFaction" run="standalone" />
@@ -30,5 +31,6 @@
         <instruction type="rpRace" />
         <instruction type="rpRole" />
         <instruction type="rpClassification" />
+		<instruction type="script" application="rp">acp/install_dev.daries.rp.game.wow.php</instruction>
     </instructions>
 </package>
