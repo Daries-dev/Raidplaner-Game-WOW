@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/game.xsd">
+    <import>
+        <game identifier="wow">
+            <title language="de">World of Warcraft</title>
+            <title language="en">World of Warcraft</title>
+        </game>
+    </import>
+</data>

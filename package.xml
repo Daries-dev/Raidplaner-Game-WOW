@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package name="dev.daries.rp.game.wow" xmlns="http://www.woltlab.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/6.0/package.xsd">
+    <packageinformation>
+        <packagename>Raidplaner: Game: World of Warcraft</packagename>
+        <version>1.0.0 dev 1</version>
+        <date>2024-08-13</date>
+    </packageinformation>
+
+    <authorinformation>
+        <author>Daries.dev</author>
+        <authorurl>https://daries.dev</authorurl>
+    </authorinformation>
+
+    <requiredpackages>
+        <requiredpackage minversion="1.0.0 dev 1">dev.daries.rp</requiredpackage>
+        <requiredpackage minversion="6.1.0 dev 1">com.woltlab.wcf</requiredpackage>
+    </requiredpackages>
+
+    <excludedpackages>
+        <excludedpackage version="1.1.0 Alpha 1">dev.daries.rp</excludedpackage>
+    </excludedpackages>
+
+    <instructions type="install">
+        <instruction type="rpGame" />
+    </instructions>
+</package>
