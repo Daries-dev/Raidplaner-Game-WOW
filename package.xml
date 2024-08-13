@@ -24,7 +24,9 @@
 
     <instructions type="install">
         <instruction type="rpGame" />
-        <instruction type="rpFaction" />
+
+        <instruction type="rpFaction" run="standalone" />
+
         <instruction type="rpRace" />
         <instruction type="rpRole" />
         <instruction type="rpClassification" />
