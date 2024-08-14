@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/skill.xsd">
+    <import>
+        <skill identifier="affliction">
+            <title language="de">Gebrechen</title>
+            <title language="en">Affliction</title>
+            <icon>affliction</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="arcane">
+            <title language="de">Arkan</title>
+            <title language="en">Arcane</title>
+            <icon>arcane</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="arms">
+            <title language="de">Waffen</title>
+            <title language="en">Arms</title>
+            <icon>arms</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="assassination">
+            <title language="de">Meucheln</title>
+            <title language="en">Assassination</title>
+            <icon>assassination</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="augmentation">
+            <title language="de">Verstärkung</title>
+            <title language="en">Augmentation</title>
+            <icon>augmentation</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="balance">
+            <title language="de">Gleichgewicht</title>
+            <title language="en">Balance</title>
+            <icon>balance</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="beastMastery">
+            <title language="de">Tierherrschaft</title>
+            <title language="en">Beast Mastery</title>
+            <icon>beastMastery</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="blood">
+            <title language="de">Blut</title>
+            <title language="en">Blood</title>
+            <icon>blood</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="brewmaster">
+            <title language="de">Braumeister</title>
+            <title language="en">Brewmaster</title>
+            <icon>brewmaster</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="demonology">
+            <title language="de">Dämonologie</title>
+            <title language="en">Demonology</title>
+            <icon>demonology</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="destruction">
+            <title language="de">Zerstörung</title>
+            <title language="en">Destruction</title>
+            <icon>destruction</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="devastation">
+            <title language="de">Verheerung</title>
+            <title language="en">Devastation</title>
+            <icon>devastation</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="discipline">
+            <title language="de">Disziplin</title>
+            <title language="en">Discipline</title>
+            <icon>discipline</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="elemental">
+            <title language="de">Elementar</title>
+            <title language="en">Elemental</title>
+            <icon>elemental</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="enhancement">
+            <title language="de">Verstärkung</title>
+            <title language="en">Enhancement</title>
+            <icon>enhancement</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="feral">
+            <title language="de">Wildheit</title>
+            <title language="en">Feral</title>
+            <icon>feral</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="fire">
+            <title language="de">Feuer</title>
+            <title language="en">Fire</title>
+            <icon>fire</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="frost">
+            <title language="de">Frost</title>
+            <title language="en">Frost</title>
+            <icon>frost</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="frost2">
+            <title language="de">Frost</title>
+            <title language="en">Frost</title>
+            <icon>frost2</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="fury">
+            <title language="de">Furor</title>
+            <title language="en">Fury</title>
+            <icon>fury</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="guardian">
+            <title language="de">Wächter</title>
+            <title language="en">Guardian</title>
+            <icon>guardian</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="havoc">
+            <title language="de">Verwüstung</title>
+            <title language="en">Havoc</title>
+            <icon>havoc</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="holy">
+            <title language="de">Heilig</title>
+            <title language="en">Holy</title>
+            <icon>holy</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="holy2">
+            <title language="de">Heilig</title>
+            <title language="en">Holy</title>
+            <icon>holy2</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="marksmanship">
+            <title language="de">Treffsicherheit</title>
+            <title language="en">Marksmanship</title>
+            <icon>marksmanship</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="mistweaver">
+            <title language="de">Nebelwirker</title>
+            <title language="en">Mistweaver</title>
+            <icon>mistweaver</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="outlaw">
+            <title language="de">Gesetztlosigkeit</title>
+            <title language="en">Outlaw</title>
+            <icon>outlaw</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="preservation">
+            <title language="de">Bewahrung</title>
+            <title language="en">Preservation</title>
+            <icon>preservation</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="protection">
+            <title language="de">Schutz</title>
+            <title language="en">Protection</title>
+            <icon>protection</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="protection2">
+            <title language="de">Schutz</title>
+            <title language="en">Protection</title>
+            <icon>protection2</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="restoration">
+            <title language="de">Wiederherstellung</title>
+            <title language="en">Restoration</title>
+            <icon>restoration</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="restoration2">
+            <title language="de">Wiederherstellung</title>
+            <title language="en">Restoration</title>
+            <icon>restoration2</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="retribution">
+            <title language="de">Vergeltung</title>
+            <title language="en">Retribution</title>
+            <icon>retribution</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="shadow">
+            <title language="de">Schatten</title>
+            <title language="en">Shadow</title>
+            <icon>shadow</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="subtlety">
+            <title language="de">Täuschung</title>
+            <title language="en">Subtlety</title>
+            <icon>subtlety</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="survival">
+            <title language="de">Überleben</title>
+            <title language="en">Survival</title>
+            <icon>survival</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="unholy">
+            <title language="de">Unheilig</title>
+            <title language="en">Unholy</title>
+            <icon>unholy</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="vengeance">
+            <title language="de">Rachsucht</title>
+            <title language="en">Vengeance</title>
+            <icon>vengeance</icon>
+            <game>wow</game>
+        </skill>
+        <skill identifier="windwalker">
+            <title language="de">Windläufer</title>
+            <title language="en">Windwalker</title>
+            <icon>windwalker</icon>
+            <game>wow</game>
+        </skill>
+    </import>
+</data>

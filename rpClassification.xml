@@ -38,6 +38,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>blood</skill>
+                <skill>frost</skill>
+                <skill>unholy</skill>
+            </skills>
             <icon>deathKnight</icon>
             <game>wow</game>
         </classification>
@@ -56,6 +61,10 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>havoc</skill>
+                <skill>vengeance</skill>
+            </skills>
             <icon>demonHunter</icon>
             <game>wow</game>
         </classification>
@@ -82,6 +91,12 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>balance</skill>
+                <skill>feral</skill>
+                <skill>guardian</skill>
+                <skill>restoration</skill>
+            </skills>
             <icon>druid</icon>
             <game>wow</game>
         </classification>
@@ -99,6 +114,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>augmentation</skill>
+                <skill>devastation</skill>
+                <skill>preservation</skill>
+            </skills>
             <icon>evoker</icon>
             <game>wow</game>
         </classification>
@@ -138,6 +158,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>beastMastery</skill>
+                <skill>marksmanship</skill>
+                <skill>survival</skill>
+            </skills>
             <icon>hunter</icon>
             <game>wow</game>
         </classification>
@@ -174,6 +199,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>arcane</skill>
+                <skill>fire</skill>
+                <skill>frost2</skill>
+            </skills>
             <icon>mage</icon>
             <game>wow</game>
         </classification>
@@ -211,6 +241,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>brewmaster</skill>
+                <skill>mistweaver</skill>
+                <skill>windwalker</skill>
+            </skills>
             <icon>monk</icon>
             <game>wow</game>
         </classification>
@@ -236,6 +271,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>holy</skill>
+                <skill>protection</skill>
+                <skill>retribution</skill>
+            </skills>
             <icon>paladin</icon>
             <game>wow</game>
         </classification>
@@ -273,6 +313,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>discipline</skill>
+                <skill>goly2</skill>
+                <skill>shadow</skill>
+            </skills>
             <icon>priest</icon>
             <game>wow</game>
         </classification>
@@ -307,6 +352,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>assassination</skill>
+                <skill>outlaw</skill>
+                <skill>subtlety</skill>
+            </skills>
             <icon>rogue</icon>
             <game>wow</game>
         </classification>
@@ -337,6 +387,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>elemental</skill>
+                <skill>enhancement</skill>
+                <skill>restoration2</skill>
+            </skills>
             <icon>shaman</icon>
             <game>wow</game>
         </classification>
@@ -366,6 +421,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>affliction</skill>
+                <skill>demonology</skill>
+                <skill>destruction</skill>
+            </skills>
             <icon>warlock</icon>
             <game>wow</game>
         </classification>
@@ -405,6 +465,11 @@
                 <faction>alliance</faction>
                 <faction>horde</faction>
             </factions>
+            <skills>
+                <skill>arms</skill>
+                <skill>fury</skill>
+                <skill>protection2</skill>
+            </skills>
             <icon>warrior</icon>
             <game>wow</game>
         </classification>

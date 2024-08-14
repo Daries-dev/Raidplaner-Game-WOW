@@ -31,6 +31,7 @@
 
         <instruction type="rpRace" />
         <instruction type="rpRole" />
+        <instruction type="rpSkill" />
         <instruction type="rpClassification" />
         <instruction type="rpServer" />
 		<instruction type="script" application="rp">acp/install_dev.daries.rp.game.wow.php</instruction>
