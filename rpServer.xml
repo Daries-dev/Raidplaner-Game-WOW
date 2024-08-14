@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/server.xsd">
+    <import>
+        <server identifier="aegwynn">
+            <title language="de">Aegwynn</title>
+            <title language="en">Aegwynn</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="aeriepeak">
+            <title language="de">Aerie Peak</title>
+            <title language="en">Aerie Peak</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="agamaggan">
+            <title language="de">Agamaggan</title>
+            <title language="en">Agamaggan</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="aggramar">
+            <title language="de">Aggramar</title>
+            <title language="en">Aggramar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="aggraportugiesisch">
+            <title language="de">Aggra (Portugiesisch)</title>
+            <title language="en">Aggra (Portugiesisch)</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ahnqiraj">
+            <title language="de">Ahn'Qiraj</title>
+            <title language="en">Ahn'Qiraj</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="alakir">
+            <title language="de">Al'Akir</title>
+            <title language="en">Al'Akir</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="alexstrasza">
+            <title language="de">Alexstrasza</title>
+            <title language="en">Alexstrasza</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="alleria">
+            <title language="de">Alleria</title>
+            <title language="en">Alleria</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="alonsus">
+            <title language="de">Alonsus</title>
+            <title language="en">Alonsus</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="amanthul">
+            <title language="de">Aman'thul</title>
+            <title language="en">Aman'thul</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ambossar">
+            <title language="de">Ambossar</title>
+            <title language="en">Ambossar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="anachronos">
+            <title language="de">Anachronos</title>
+            <title language="en">Anachronos</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="anetheron">
+            <title language="de">Anetheron</title>
+            <title language="en">Anetheron</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="antonidas">
+            <title language="de">Antonidas</title>
+            <title language="en">Antonidas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="anubarak">
+            <title language="de">Anub'arak</title>
+            <title language="en">Anub'arak</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="arakarahm">
+            <title language="de">Arak-arahm</title>
+            <title language="en">Arak-arahm</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="arathi">
+            <title language="de">Arathi</title>
+            <title language="en">Arathi</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="arathor">
+            <title language="de">Arathor</title>
+            <title language="en">Arathor</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="archimonde">
+            <title language="de">Archimonde</title>
+            <title language="en">Archimonde</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="area52">
+            <title language="de">Area 52</title>
+            <title language="en">Area 52</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="argentdawn">
+            <title language="de">Argent Dawn</title>
+            <title language="en">Argent Dawn</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="arthas">
+            <title language="de">Arthas</title>
+            <title language="en">Arthas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="arygos">
+            <title language="de">Arygos</title>
+            <title language="en">Arygos</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ashenvale">
+            <title language="de">Ashenvale</title>
+            <title language="en">Ashenvale</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="aszune">
+            <title language="de">Aszune</title>
+            <title language="en">Aszune</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="auchindoun">
+            <title language="de">Auchindoun</title>
+            <title language="en">Auchindoun</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="azjolnerub">
+            <title language="de">Azjol-Nerub</title>
+            <title language="en">Azjol-Nerub</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="azshara">
+            <title language="de">Azshara</title>
+            <title language="en">Azshara</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="azuregos">
+            <title language="de">Azuregos</title>
+            <title language="en">Azuregos</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="azuremyst">
+            <title language="de">Azuremyst</title>
+            <title language="en">Azuremyst</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="baelgun">
+            <title language="de">Baelgun</title>
+            <title language="en">Baelgun</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="balnazzar">
+            <title language="de">Balnazzar</title>
+            <title language="en">Balnazzar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="blackhand">
+            <title language="de">Blackhand</title>
+            <title language="en">Blackhand</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="blackmoore">
+            <title language="de">Blackmoore</title>
+            <title language="en">Blackmoore</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="blackrock">
+            <title language="de">Blackrock</title>
+            <title language="en">Blackrock</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="blackscar">
+            <title language="de">Blackscar</title>
+            <title language="en">Blackscar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bladefist">
+            <title language="de">Bladefist</title>
+            <title language="en">Bladefist</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bladesedge">
+            <title language="de">Blade's Edge</title>
+            <title language="en">Blade's Edge</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bloodfeather">
+            <title language="de">Bloodfeather</title>
+            <title language="en">Bloodfeather</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bloodhoof">
+            <title language="de">Bloodhoof</title>
+            <title language="en">Bloodhoof</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bloodscalp">
+            <title language="de">Bloodscalp</title>
+            <title language="en">Bloodscalp</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="blutkessel">
+            <title language="de">Blutkessel</title>
+            <title language="en">Blutkessel</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bootybay">
+            <title language="de">Booty Bay</title>
+            <title language="en">Booty Bay</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="boreantundra">
+            <title language="de">Borean Tundra</title>
+            <title language="en">Borean Tundra</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="boulderfist">
+            <title language="de">Boulderfist</title>
+            <title language="en">Boulderfist</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bronzebeard">
+            <title language="de">Bronzebeard</title>
+            <title language="en">Bronzebeard</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="bronzedragonflight">
+            <title language="de">Bronze Dragonflight</title>
+            <title language="en">Bronze Dragonflight</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="burningblade">
+            <title language="de">Burning Blade</title>
+            <title language="en">Burning Blade</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="burninglegion">
+            <title language="de">Burning Legion</title>
+            <title language="en">Burning Legion</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="burningsteppes">
+            <title language="de">Burning Steppes</title>
+            <title language="en">Burning Steppes</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="chamberofaspects">
+            <title language="de">Chamber of Aspects</title>
+            <title language="en">Chamber of Aspects</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="chantseternels">
+            <title language="de">Chants éternels</title>
+            <title language="en">Chants éternels</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="chogall">
+            <title language="de">Cho'gall</title>
+            <title language="en">Cho'gall</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="chromaggus">
+            <title language="de">Chromaggus</title>
+            <title language="en">Chromaggus</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="colinaspardas">
+            <title language="de">Colinas Pardas</title>
+            <title language="en">Colinas Pardas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="confrerieduthorium">
+            <title language="de">Confrérie du Thorium</title>
+            <title language="en">Confrérie du Thorium</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="conseildesombres">
+            <title language="de">Conseil des Ombres</title>
+            <title language="en">Conseil des Ombres</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="crushridge">
+            <title language="de">Crushridge</title>
+            <title language="en">Crushridge</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="cthun">
+            <title language="de">C'Thun</title>
+            <title language="en">C'Thun</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="cultedelarivenoire">
+            <title language="de">Culte de la Rive noire</title>
+            <title language="en">Culte de la Rive noire</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="daggerspine">
+            <title language="de">Daggerspine</title>
+            <title language="en">Daggerspine</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dalaran">
+            <title language="de">Dalaran</title>
+            <title language="en">Dalaran</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dalvengyr">
+            <title language="de">Dalvengyr</title>
+            <title language="en">Dalvengyr</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="darkmoonfaire">
+            <title language="de">Darkmoon Faire</title>
+            <title language="en">Darkmoon Faire</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="darksorrow">
+            <title language="de">Darksorrow</title>
+            <title language="en">Darksorrow</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="darkspear">
+            <title language="de">Darkspear</title>
+            <title language="en">Darkspear</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="daskonsortium">
+            <title language="de">Das Konsortium</title>
+            <title language="en">Das Konsortium</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dassyndikat">
+            <title language="de">Das Syndikat</title>
+            <title language="en">Das Syndikat</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="deathguard">
+            <title language="de">Deathguard</title>
+            <title language="en">Deathguard</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="deathweaver">
+            <title language="de">Deathweaver</title>
+            <title language="en">Deathweaver</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="deathwing">
+            <title language="de">Deathwing</title>
+            <title language="en">Deathwing</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="deephome">
+            <title language="de">Deephome</title>
+            <title language="en">Deephome</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="defiasbrotherhood">
+            <title language="de">Defias Brotherhood</title>
+            <title language="en">Defias Brotherhood</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dentarg">
+            <title language="de">Dentarg</title>
+            <title language="en">Dentarg</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="derabyssischerat">
+            <title language="de">Der Abyssische Rat</title>
+            <title language="en">Der Abyssische Rat</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dermithrilorden">
+            <title language="de">Der Mithrilorden</title>
+            <title language="en">Der Mithrilorden</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="derratvondalaran">
+            <title language="de">Der Rat von Dalaran</title>
+            <title language="en">Der Rat von Dalaran</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="destromath">
+            <title language="de">Destromath</title>
+            <title language="en">Destromath</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dethecus">
+            <title language="de">Dethecus</title>
+            <title language="en">Dethecus</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="diealdor">
+            <title language="de">Die Aldor</title>
+            <title language="en">Die Aldor</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="diearguswacht">
+            <title language="de">Die Arguswacht</title>
+            <title language="en">Die Arguswacht</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dieewigewacht">
+            <title language="de">Die ewige Wacht</title>
+            <title language="en">Die ewige Wacht</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dienachtwache">
+            <title language="de">Die Nachtwache</title>
+            <title language="en">Die Nachtwache</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="diesilbernehand">
+            <title language="de">Die Silberne Hand</title>
+            <title language="en">Die Silberne Hand</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dietodeskrallen">
+            <title language="de">Die Todeskrallen</title>
+            <title language="en">Die Todeskrallen</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="doomhammer">
+            <title language="de">Doomhammer</title>
+            <title language="en">Doomhammer</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="draenor">
+            <title language="de">Draenor</title>
+            <title language="en">Draenor</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dragonblight">
+            <title language="de">Dragonblight</title>
+            <title language="en">Dragonblight</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dragonmaw">
+            <title language="de">Dragonmaw</title>
+            <title language="en">Dragonmaw</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="drakthul">
+            <title language="de">Drak'thul</title>
+            <title language="en">Drak'thul</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="drekthar">
+            <title language="de">Drek'Thar</title>
+            <title language="en">Drek'Thar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dunemaul">
+            <title language="de">Dunemaul</title>
+            <title language="en">Dunemaul</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dunmodr">
+            <title language="de">Dun Modr</title>
+            <title language="en">Dun Modr</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="dunmorogh">
+            <title language="de">Dun Morogh</title>
+            <title language="en">Dun Morogh</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="durotan">
+            <title language="de">Durotan</title>
+            <title language="en">Durotan</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="earthenring">
+            <title language="de">Earthen Ring</title>
+            <title language="en">Earthen Ring</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="echsenkessel">
+            <title language="de">Echsenkessel</title>
+            <title language="en">Echsenkessel</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="eldrethalas">
+            <title language="de">Eldre'Thalas</title>
+            <title language="en">Eldre'Thalas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="elune">
+            <title language="de">Elune</title>
+            <title language="en">Elune</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="emeralddream">
+            <title language="de">Emerald Dream</title>
+            <title language="en">Emerald Dream</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="emeriss">
+            <title language="de">Emeriss</title>
+            <title language="en">Emeriss</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="eonar">
+            <title language="de">Eonar</title>
+            <title language="en">Eonar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="eredar">
+            <title language="de">Eredar</title>
+            <title language="en">Eredar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="etrigg">
+            <title language="de">Etrigg</title>
+            <title language="en">Etrigg</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="eversong">
+            <title language="de">Eversong</title>
+            <title language="en">Eversong</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="executus">
+            <title language="de">Executus</title>
+            <title language="en">Executus</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="exodar">
+            <title language="de">Exodar</title>
+            <title language="en">Exodar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="festungdersturme">
+            <title language="de">Festung der Stürme</title>
+            <title language="en">Festung der Stürme</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="fordragon">
+            <title language="de">Fordragon</title>
+            <title language="en">Fordragon</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="forscherliga">
+            <title language="de">Forscherliga</title>
+            <title language="en">Forscherliga</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="frostmane">
+            <title language="de">Frostmane</title>
+            <title language="en">Frostmane</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="frostmourne">
+            <title language="de">Frostmourne</title>
+            <title language="en">Frostmourne</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="frostwhisper">
+            <title language="de">Frostwhisper</title>
+            <title language="en">Frostwhisper</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="frostwolf">
+            <title language="de">Frostwolf</title>
+            <title language="en">Frostwolf</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="galakrond">
+            <title language="de">Galakrond</title>
+            <title language="en">Galakrond</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="garona">
+            <title language="de">Garona</title>
+            <title language="en">Garona</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="garrosh">
+            <title language="de">Garrosh</title>
+            <title language="en">Garrosh</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="genjuros">
+            <title language="de">Genjuros</title>
+            <title language="en">Genjuros</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ghostlands">
+            <title language="de">Ghostlands</title>
+            <title language="en">Ghostlands</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="gilneas">
+            <title language="de">Gilneas</title>
+            <title language="en">Gilneas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="goldrinn">
+            <title language="de">Goldrinn</title>
+            <title language="en">Goldrinn</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="gordunni">
+            <title language="de">Gordunni</title>
+            <title language="en">Gordunni</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="gorgonnash">
+            <title language="de">Gorgonnash</title>
+            <title language="en">Gorgonnash</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="greymane">
+            <title language="de">Greymane</title>
+            <title language="en">Greymane</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="grimbatol">
+            <title language="de">Grim Batol</title>
+            <title language="en">Grim Batol</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="grom">
+            <title language="de">Grom</title>
+            <title language="en">Grom</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="guldan">
+            <title language="de">Gul'dan</title>
+            <title language="en">Gul'dan</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="hakkar">
+            <title language="de">Hakkar</title>
+            <title language="en">Hakkar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="haomarush">
+            <title language="de">Haomarush</title>
+            <title language="en">Haomarush</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="hellfire">
+            <title language="de">Hellfire</title>
+            <title language="en">Hellfire</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="hellscream">
+            <title language="de">Hellscream</title>
+            <title language="en">Hellscream</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="howlingfjord">
+            <title language="de">Howling Fjord</title>
+            <title language="en">Howling Fjord</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="hyjal">
+            <title language="de">Hyjal</title>
+            <title language="en">Hyjal</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="illidan">
+            <title language="de">Illidan</title>
+            <title language="en">Illidan</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="jaedenar">
+            <title language="de">Jaedenar</title>
+            <title language="en">Jaedenar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kaelthas">
+            <title language="de">Kael'thas</title>
+            <title language="en">Kael'thas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="karazhan">
+            <title language="de">Karazhan</title>
+            <title language="en">Karazhan</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kargath">
+            <title language="de">Kargath</title>
+            <title language="en">Kargath</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kazzak">
+            <title language="de">Kazzak</title>
+            <title language="en">Kazzak</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kelthuzad">
+            <title language="de">Kel'Thuzad</title>
+            <title language="en">Kel'Thuzad</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="khadgar">
+            <title language="de">Khadgar</title>
+            <title language="en">Khadgar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="khazgoroth">
+            <title language="de">Khaz'goroth</title>
+            <title language="en">Khaz'goroth</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="khazmodan">
+            <title language="de">Khaz Modan</title>
+            <title language="en">Khaz Modan</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kiljaeden">
+            <title language="de">Kil'jaeden</title>
+            <title language="en">Kil'jaeden</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kilrogg">
+            <title language="de">Kilrogg</title>
+            <title language="en">Kilrogg</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kirintor">
+            <title language="de">Kirin Tor</title>
+            <title language="en">Kirin Tor</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="korgall">
+            <title language="de">Kor'gall</title>
+            <title language="en">Kor'gall</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kragjin">
+            <title language="de">Krag'jin</title>
+            <title language="en">Krag'jin</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="krasus">
+            <title language="de">Krasus</title>
+            <title language="en">Krasus</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kultderverdammten">
+            <title language="de">Kult der Verdammten</title>
+            <title language="en">Kult der Verdammten</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="kultiras">
+            <title language="de">Kul Tiras</title>
+            <title language="en">Kul Tiras</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lacroisadeecarlate">
+            <title language="de">La Croisade écarlate</title>
+            <title language="en">La Croisade écarlate</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="laughingskull">
+            <title language="de">Laughing Skull</title>
+            <title language="en">Laughing Skull</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lesclairvoyants">
+            <title language="de">Les Clairvoyants</title>
+            <title language="en">Les Clairvoyants</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lessentinelles">
+            <title language="de">Les Sentinelles</title>
+            <title language="en">Les Sentinelles</title>
+            <type>RP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lichking">
+            <title language="de">Lich King</title>
+            <title language="en">Lich King</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lightbringer">
+            <title language="de">Lightbringer</title>
+            <title language="en">Lightbringer</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lightningsblade">
+            <title language="de">Lightning's Blade</title>
+            <title language="en">Lightning's Blade</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lordaeron">
+            <title language="de">Lordaeron</title>
+            <title language="en">Lordaeron</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="loserrantes">
+            <title language="de">Los Errantes</title>
+            <title language="en">Los Errantes</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="lothar">
+            <title language="de">Lothar</title>
+            <title language="en">Lothar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="madmortem">
+            <title language="de">Madmortem</title>
+            <title language="en">Madmortem</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="magtheridon">
+            <title language="de">Magtheridon</title>
+            <title language="en">Magtheridon</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="malfurion">
+            <title language="de">Malfurion</title>
+            <title language="en">Malfurion</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="malganis">
+            <title language="de">Mal'Ganis</title>
+            <title language="en">Mal'Ganis</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="malorne">
+            <title language="de">Malorne</title>
+            <title language="en">Malorne</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="malygos">
+            <title language="de">Malygos</title>
+            <title language="en">Malygos</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="mannoroth">
+            <title language="de">Mannoroth</title>
+            <title language="en">Mannoroth</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="marecagedezangar">
+            <title language="de">Marécage de Zangar</title>
+            <title language="en">Marécage de Zangar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="mazrigos">
+            <title language="de">Mazrigos</title>
+            <title language="en">Mazrigos</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="medivh">
+            <title language="de">Medivh</title>
+            <title language="en">Medivh</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="minahonda">
+            <title language="de">Minahonda</title>
+            <title language="en">Minahonda</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="moonglade">
+            <title language="de">Moonglade</title>
+            <title language="en">Moonglade</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="mugthol">
+            <title language="de">Mug'thol</title>
+            <title language="en">Mug'thol</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nagrand">
+            <title language="de">Nagrand</title>
+            <title language="en">Nagrand</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nathrezim">
+            <title language="de">Nathrezim</title>
+            <title language="en">Nathrezim</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="naxxramas">
+            <title language="de">Naxxramas</title>
+            <title language="en">Naxxramas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nazjatar">
+            <title language="de">Nazjatar</title>
+            <title language="en">Nazjatar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nefarian">
+            <title language="de">Nefarian</title>
+            <title language="en">Nefarian</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nemesis">
+            <title language="de">Nemesis</title>
+            <title language="en">Nemesis</title>
+            <type>PvE/PvP</type>
+            <serverGroup>it</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="neptulon">
+            <title language="de">Neptulon</title>
+            <title language="en">Neptulon</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nerathor">
+            <title language="de">Nera'thor</title>
+            <title language="en">Nera'thor</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nerzhul">
+            <title language="de">Ner'zhul</title>
+            <title language="en">Ner'zhul</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nethersturm">
+            <title language="de">Nethersturm</title>
+            <title language="en">Nethersturm</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nordrassil">
+            <title language="de">Nordrassil</title>
+            <title language="en">Nordrassil</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="norgannon">
+            <title language="de">Norgannon</title>
+            <title language="en">Norgannon</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="nozdormu">
+            <title language="de">Nozdormu</title>
+            <title language="en">Nozdormu</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="onyxia">
+            <title language="de">Onyxia</title>
+            <title language="en">Onyxia</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="outland">
+            <title language="de">Outland</title>
+            <title language="en">Outland</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="perenolde">
+            <title language="de">Perenolde</title>
+            <title language="en">Perenolde</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="pozzodelleternita">
+            <title language="de">Pozzo dell'Eternità</title>
+            <title language="en">Pozzo dell'Eternità</title>
+            <type>PvE/PvP</type>
+            <serverGroup>it</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="proudmoore">
+            <title language="de">Proudmoore</title>
+            <title language="en">Proudmoore</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="quelthalas">
+            <title language="de">Quel'Thalas</title>
+            <title language="en">Quel'Thalas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ragnaros">
+            <title language="de">Ragnaros</title>
+            <title language="en">Ragnaros</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="rajaxx">
+            <title language="de">Rajaxx</title>
+            <title language="en">Rajaxx</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="rashgarroth">
+            <title language="de">Rashgarroth</title>
+            <title language="en">Rashgarroth</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ravencrest">
+            <title language="de">Ravencrest</title>
+            <title language="en">Ravencrest</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ravenholdt">
+            <title language="de">Ravenholdt</title>
+            <title language="en">Ravenholdt</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="razuvious">
+            <title language="de">Razuvious</title>
+            <title language="en">Razuvious</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="rexxar">
+            <title language="de">Rexxar</title>
+            <title language="en">Rexxar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="runetotem">
+            <title language="de">Runetotem</title>
+            <title language="en">Runetotem</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="sanguino">
+            <title language="de">Sanguino</title>
+            <title language="en">Sanguino</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="sargeras">
+            <title language="de">Sargeras</title>
+            <title language="en">Sargeras</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="saurfang">
+            <title language="de">Saurfang</title>
+            <title language="en">Saurfang</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="scarshieldlegion">
+            <title language="de">Scarshield Legion</title>
+            <title language="en">Scarshield Legion</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="senjin">
+            <title language="de">Sen'jin</title>
+            <title language="en">Sen'jin</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="shadowsong">
+            <title language="de">Shadowsong</title>
+            <title language="en">Shadowsong</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="shatteredhalls">
+            <title language="de">Shattered Halls</title>
+            <title language="en">Shattered Halls</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="shatteredhand">
+            <title language="de">Shattered Hand</title>
+            <title language="en">Shattered Hand</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="shattrath">
+            <title language="de">Shattrath</title>
+            <title language="en">Shattrath</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="shendralar">
+            <title language="de">Shen'dralar</title>
+            <title language="en">Shen'dralar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="silvermoon">
+            <title language="de">Silvermoon</title>
+            <title language="en">Silvermoon</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="sinstralis">
+            <title language="de">Sinstralis</title>
+            <title language="en">Sinstralis</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="skullcrusher">
+            <title language="de">Skullcrusher</title>
+            <title language="en">Skullcrusher</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="soulflayer">
+            <title language="de">Soulflayer</title>
+            <title language="en">Soulflayer</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="spinebreaker">
+            <title language="de">Spinebreaker</title>
+            <title language="en">Spinebreaker</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="sporeggar">
+            <title language="de">Sporeggar</title>
+            <title language="en">Sporeggar</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="steamwheedlecartel">
+            <title language="de">Steamwheedle Cartel</title>
+            <title language="en">Steamwheedle Cartel</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="stormrage">
+            <title language="de">Stormrage</title>
+            <title language="en">Stormrage</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="stormreaver">
+            <title language="de">Stormreaver</title>
+            <title language="en">Stormreaver</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="stormscale">
+            <title language="de">Stormscale</title>
+            <title language="en">Stormscale</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="sunstrider">
+            <title language="de">Sunstrider</title>
+            <title language="en">Sunstrider</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="suramar">
+            <title language="de">Suramar</title>
+            <title language="en">Suramar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="sylvanas">
+            <title language="de">Sylvanas</title>
+            <title language="en">Sylvanas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="taerar">
+            <title language="de">Taerar</title>
+            <title language="en">Taerar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="talnivarr">
+            <title language="de">Talnivarr</title>
+            <title language="en">Talnivarr</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="tarrenmill">
+            <title language="de">Tarren Mill</title>
+            <title language="en">Tarren Mill</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="teldrassil">
+            <title language="de">Teldrassil</title>
+            <title language="en">Teldrassil</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="templenoir">
+            <title language="de">Temple noir</title>
+            <title language="en">Temple noir</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="terenas">
+            <title language="de">Terenas</title>
+            <title language="en">Terenas</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="terokkar">
+            <title language="de">Terokkar</title>
+            <title language="en">Terokkar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="terrordar">
+            <title language="de">Terrordar</title>
+            <title language="en">Terrordar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="themaelstrom">
+            <title language="de">The Maelstrom</title>
+            <title language="en">The Maelstrom</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="theradras">
+            <title language="de">Theradras</title>
+            <title language="en">Theradras</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="thermaplugg">
+            <title language="de">Thermaplugg</title>
+            <title language="en">Thermaplugg</title>
+            <type>PvE/PvP</type>
+            <serverGroup>ru</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="theshatar">
+            <title language="de">The Sha'tar</title>
+            <title language="en">The Sha'tar</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="theventureco">
+            <title language="de">The Venture Co</title>
+            <title language="en">The Venture Co</title>
+            <type>RP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="thrall">
+            <title language="de">Thrall</title>
+            <title language="en">Thrall</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="throkferoth">
+            <title language="de">Throk'Feroth</title>
+            <title language="en">Throk'Feroth</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="thunderhorn">
+            <title language="de">Thunderhorn</title>
+            <title language="en">Thunderhorn</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="tichondrius">
+            <title language="de">Tichondrius</title>
+            <title language="en">Tichondrius</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="tirion">
+            <title language="de">Tirion</title>
+            <title language="en">Tirion</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="todeswache">
+            <title language="de">Todeswache</title>
+            <title language="en">Todeswache</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="trollbane">
+            <title language="de">Trollbane</title>
+            <title language="en">Trollbane</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="turalyon">
+            <title language="de">Turalyon</title>
+            <title language="en">Turalyon</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="twilightshammer">
+            <title language="de">Twilight's Hammer</title>
+            <title language="en">Twilight's Hammer</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="twistingnether">
+            <title language="de">Twisting Nether</title>
+            <title language="en">Twisting Nether</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="tyrande">
+            <title language="de">Tyrande</title>
+            <title language="en">Tyrande</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="uldaman">
+            <title language="de">Uldaman</title>
+            <title language="en">Uldaman</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ulduar">
+            <title language="de">Ulduar</title>
+            <title language="en">Ulduar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="uldum">
+            <title language="de">Uldum</title>
+            <title language="en">Uldum</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ungoro">
+            <title language="de">Un'Goro</title>
+            <title language="en">Un'Goro</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="varimathras">
+            <title language="de">Varimathras</title>
+            <title language="en">Varimathras</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="vashj">
+            <title language="de">Vashj</title>
+            <title language="en">Vashj</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="veklor">
+            <title language="de">Vek'lor</title>
+            <title language="en">Vek'lor</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="veknilash">
+            <title language="de">Vek'nilash</title>
+            <title language="en">Vek'nilash</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="voljin">
+            <title language="de">Vol'jin</title>
+            <title language="en">Vol'jin</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="wildhammer">
+            <title language="de">Wildhammer</title>
+            <title language="en">Wildhammer</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="wrathbringer">
+            <title language="de">Wrathbringer</title>
+            <title language="en">Wrathbringer</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="xavius">
+            <title language="de">Xavius</title>
+            <title language="en">Xavius</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ysera">
+            <title language="de">Ysera</title>
+            <title language="en">Ysera</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="ysondre">
+            <title language="de">Ysondre</title>
+            <title language="en">Ysondre</title>
+            <type>PvE/PvP</type>
+            <serverGroup>fr</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="zenedar">
+            <title language="de">Zenedar</title>
+            <title language="en">Zenedar</title>
+            <type>PvE/PvP</type>
+            <serverGroup>en</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="zirkeldescenarius">
+            <title language="de">Zirkel des Cenarius</title>
+            <title language="en">Zirkel des Cenarius</title>
+            <type>RP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="zuljin">
+            <title language="de">Zul'jin</title>
+            <title language="en">Zul'jin</title>
+            <type>PvE/PvP</type>
+            <serverGroup>spa</serverGroup>
+            <game>wow</game>
+        </server>
+        <server identifier="zuluhed">
+            <title language="de">Zuluhed</title>
+            <title language="en">Zuluhed</title>
+            <type>PvE/PvP</type>
+            <serverGroup>de</serverGroup>
+            <game>wow</game>
+        </server>
+    </import>
+</data>

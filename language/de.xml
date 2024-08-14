@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/6.0/language.xsd"
+    languagecode="de">
+    <import>
+        <category name="rp.server">
+            <item name="rp.server.wow.group.de"><![CDATA[Deutsch]]></item>
+            <item name="rp.server.wow.group.en"><![CDATA[Englisch]]></item>
+            <item name="rp.server.wow.group.fr"><![CDATA[Französisch]]></item>
+            <item name="rp.server.wow.group.ru"><![CDATA[Russisch]]></item>
+            <item name="rp.server.wow.group.spa"><![CDATA[Spanisch]]></item>
+        </category>
+    </import>
+</language>
