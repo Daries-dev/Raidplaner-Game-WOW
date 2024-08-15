@@ -24,6 +24,7 @@
 
     <instructions type="install">
         <instruction type="file" application="rp">files_rp.tar</instruction>
+        <instruction type="file" application="wcf">files_wcf.tar</instruction>
         <instruction type="language" />
         <instruction type="rpGame" />
 

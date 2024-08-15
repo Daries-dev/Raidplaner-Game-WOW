@@ -3,6 +3,12 @@
     xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/6.0/language.xsd"
     languagecode="en">
     <import>
+        <category name="rp.character">
+            <item name="rp.character.wow.level"><![CDATA[Level]]></item>
+            <item name="rp.character.wow.talent.primary"><![CDATA[Primary Specialization]]></item>
+            <item name="rp.character.wow.talent.secondary"><![CDATA[Secondary Specialization]]></item>
+        </category>
+
         <category name="rp.server">
             <item name="rp.server.wow.group.de"><![CDATA[German]]></item>
             <item name="rp.server.wow.group.en"><![CDATA[English]]></item>
