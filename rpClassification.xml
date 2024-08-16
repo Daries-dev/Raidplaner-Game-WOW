@@ -167,7 +167,7 @@
             <game>wow</game>
         </classification>
         <classification identifier="mage">
-            <title language="de">Jäger</title>
+            <title language="de">Magier</title>
             <title language="en">Mage</title>
             <races>
                 <race>bloodElf</race>
