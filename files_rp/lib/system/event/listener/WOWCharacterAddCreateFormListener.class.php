@@ -25,13 +25,12 @@ final class WOWCharacterAddCreateFormListener
     public function __invoke(CharacterAddCreateForm $event)
     {
         $classificationSkills = ClassificationCache::getInstance()->getClassificationSkills();
-        $mapping = [];
+        $skillMapping = [];
         foreach ($classificationSkills as $classificationID => $skills) {
             foreach ($skills as $skillID) {
-                $mapping[$skillID][] = $classificationID;
+                $skillMapping[$skillID][] = $classificationID;
             }
         }
-
 
         $section = $event->form->getNodeById('characterGeneralSection');
         $section->appendChildren([
@@ -64,7 +63,7 @@ final class WOWCharacterAddCreateFormListener
                 ->required()
                 ->options(SkillCache::getInstance()->getSkills())
                 ->triggerSelect('classificationID')
-                ->optionsMapping($mapping)
+                ->optionsMapping($skillMapping)
                 ->addValidator(new FormFieldValidator('check', function (SingleSelectionFormField $formField) {
                     $value = $formField->getSaveValue();
 
@@ -76,7 +75,7 @@ final class WOWCharacterAddCreateFormListener
                 ->label('rp.character.wow.talent.secondary')
                 ->options(SkillCache::getInstance()->getSkills())
                 ->triggerSelect('classificationID')
-                ->optionsMapping($mapping)
+                ->optionsMapping($skillMapping)
                 ->addValidator(new FormFieldValidator('check', function (SingleSelectionFormField $formField) {
                     $value = $formField->getSaveValue();
 
