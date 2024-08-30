@@ -42,7 +42,18 @@ final class WOWCharacterAddCreateFormListener
                 ->required()
                 ->options(ClassificationCache::getInstance()->getClassifications())
                 ->triggerSelect('raceID')
-                ->optionsMapping(ClassificationCache::getInstance()->getClassificationRaces())
+                ->optionsMapping(static function () {
+                    $races = ClassificationCache::getInstance()->getClassificationRaces();
+
+                    $mapping = \array_reduce(\array_keys($races), function ($carry, $classificationID) use ($races) {
+                        foreach ($races[$classificationID] as $raceID) {
+                            $carry[$raceID][] = $classificationID;
+                        }
+                        return $carry;
+                    }, []);
+
+                    return $mapping;
+                })
                 ->addValidator(new FormFieldValidator('check', function (SingleSelectionFormField $formField) {
                     $value = $formField->getSaveValue();
 
