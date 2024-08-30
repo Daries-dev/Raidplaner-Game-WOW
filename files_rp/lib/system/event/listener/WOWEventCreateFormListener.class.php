@@ -25,7 +25,7 @@ final class WOWEventCreateFormListener
             IntegerFormField::create('requiredLevel')
                 ->label('rp.character.wow.level')
                 ->minimum(0)
-                ->maximum(120)
+                ->maximum(80)
                 ->value(0),
         ]);
     }

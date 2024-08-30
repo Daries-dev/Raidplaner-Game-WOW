@@ -79,7 +79,7 @@ final class WOWCharacterAddCreateFormListener
                 ->label('rp.character.wow.level')
                 ->required()
                 ->minimum(1)
-                ->maximum(120)
+                ->maximum(80)
                 ->value(0),
             SingleSelectionFormField::create('serverID')
                 ->label('rp.server.title')
