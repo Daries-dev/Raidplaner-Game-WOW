@@ -78,14 +78,7 @@ final class WOWCharacterAddCreateFormListener
                 ->label('rp.character.wow.talent.secondary')
                 ->options(SkillCache::getInstance()->getSkills())
                 ->triggerSelect('classificationID')
-                ->optionsMapping(ClassificationCache::getInstance()->getClassificationSkills())
-                ->addValidator(new FormFieldValidator('check', function (SingleSelectionFormField $formField) {
-                    $value = $formField->getSaveValue();
-
-                    if (empty($value)) {
-                        $formField->addValidationError(new FormFieldValidationError('empty'));
-                    }
-                })),
+                ->optionsMapping(ClassificationCache::getInstance()->getClassificationSkills()),
             IntegerFormField::create('level')
                 ->label('rp.character.wow.level')
                 ->required()
