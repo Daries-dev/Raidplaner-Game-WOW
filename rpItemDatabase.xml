@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://daries.dev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://daries.dev https://daries.dev/XSD/rp/1.0/itemDatabase.xsd">
+    <import>
+        <database name="wow_head">rp\system\item\database\WOWHeadItemDatabase</database>
+    </import>
+</data>

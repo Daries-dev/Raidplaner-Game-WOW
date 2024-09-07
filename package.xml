@@ -35,6 +35,7 @@
         <instruction type="rpSkill" />
         <instruction type="rpClassification" />
         <instruction type="rpServer" />
+        <instruction type="rpItemDatabase" />
 		<instruction type="script" application="rp">acp/install_dev.daries.rp.game.wow.php</instruction>
     </instructions>
 </package>
