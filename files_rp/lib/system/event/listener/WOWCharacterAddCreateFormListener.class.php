@@ -76,6 +76,7 @@ final class WOWCharacterAddCreateFormListener
                 })),
             DynamicSelectFormField::create('talent2')
                 ->label('rp.character.wow.talent.secondary')
+                ->nullable()
                 ->options(SkillCache::getInstance()->getSkills())
                 ->triggerSelect('classificationID')
                 ->optionsMapping(ClassificationCache::getInstance()->getClassificationSkills()),
@@ -88,13 +89,7 @@ final class WOWCharacterAddCreateFormListener
             SingleSelectionFormField::create('serverID')
                 ->label('rp.server.title')
                 ->options(['' => 'wcf.global.noSelection'] + ServerCache::getInstance()->getServers())
-                ->addValidator(new FormFieldValidator('check', function (SingleSelectionFormField $formField) {
-                    $value = $formField->getSaveValue();
-
-                    if (empty($value)) {
-                        $formField->addValidationError(new FormFieldValidationError('empty'));
-                    }
-                })),
+                ->nullable(),
         ]);
     }
 }
